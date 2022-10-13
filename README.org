@@ -1,11 +1,2 @@
-#+title: Akkerman
+#+title: About akkerman
 
-* Hello World
-
-** Docker stuff
-
-+ one
-+ two
-+ three
-
-** Utils
